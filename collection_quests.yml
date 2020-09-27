@@ -1,0 +1,870 @@
+- name: Secrets of Faydwer
+  zones:
+    - name: Gnome Memorial Mountain
+      quests:
+        - name: Small Memories
+          ids: 116902...116909
+          note: Ground
+        - name: Small Documents
+          ids: 116910...116917
+          note: Drop - Static zone
+        - name: Small Parts
+          ids: 116918...116925
+          note: Drop - HAs
+        - name: Small Feuds
+          ids: 116926...116933
+          note: Ground
+- name: Rain of Fear
+  zones:
+    - name: Multi-zone
+      quests:
+        - name: Stalking Fear
+          ids: 77518...77526
+          note: Ground - each zone has a specific item
+    - name: Shard's Landing
+      quests:
+        - name: A Tracker's Guide to Shard's Landing
+          ids: 77376...77388
+          note: Ground - Outer ring
+        - name: Alarans in Chains
+          ids: 77424...77431
+          note: Drop - Alaran's
+        - name: Fear in Pieces
+          ids: 77389...77396
+          note: Ground - Center area
+        - name: Signs of Madness
+          ids: 77415...77423
+          note: Ground - East Alaran area
+    - name: East Wastes, Zeixshi-Kar's Awakening
+      quests:
+        - name: It Attracts All Kinds
+          ids: 72388...72395
+          note: Ground -
+        - name: Glimpses of Nightmare
+          ids: 72284...72291
+          note: Drop - Nightmare related mobs
+        - name: "Gildorn: Madman or Visionary?"
+          ids: 72588...72595
+          note: Ground -
+        - name: Weapons of War
+          ids: 75035...75042
+          note: Ground -
+    - name: Kael Drakkel, The King's Madness
+      quests:
+        - name: 101 Ways to Keep Your Chin Warm
+          ids: 77343...77350
+          note: Drop - Dwarves and Giants
+        - name: Icy Artifacts
+          ids: 77351...77359
+          note: Ground -
+        - name: A Faerie Fun Party
+          ids: 77360...77367
+          note: Ground -
+        - name: Prime Predators
+          ids: 77368...77375
+          note: Ground -
+    - name: Crystal Caverns, Fragment of Fear
+      quests:
+        - name: Hairy and Scary
+          ids: 71805...71813
+          note: Ground -
+        - name: Gross Popsicles
+          ids: 75970...75977
+          note: Ground -
+        - name: Crystal Tchotchkes
+          ids: 75962...75969
+          note: Drop - Orcs
+        - name: Coldain's Last Stand
+          ids: 72140...72147
+          note: Ground -
+    - name: Evantil, the Vile Oak
+      quests:
+        - name: Nature's Corrupted Candy
+          ids: 57979...57986
+          note: Ground -
+        - name: Icky, Sticky, and Squishy
+          ids: 75978...75989
+          note: Ground -
+        - name: Gnomish Gizmos
+          ids: 76483...76493
+          note: Ground -
+        - name: Remnants of a Lost Life
+          ids: 77335...77342
+          note: Drop - Alarans
+    - name: Breeding Grounds
+      quests:
+        - name: The Smellier the Better
+          ids: 71035...71044
+          note: Drop - Chetari
+        - name: Blessing of the Icewing
+          ids: 72370...72378
+          note: Ground -
+        - name: Corruption Catalogued
+          ids: 72379...72387
+          note: Ground -
+        - name: Life-size Fossils
+          ids: 77325...77334
+          note: Ground -
+    - name: Chapterhouse of the Fallen
+      quests:
+        - name: Dem Bones
+          ids: 72556...72563
+          note: Drop - Undead
+        - name: Death isn't Easily Undone
+          ids: 72564...72571
+          note: Ground - Basement MultiRing
+        - name: Unfinished Business
+          ids: 72572...72579
+          note: Ground - Basement Cells and tunnels
+        - name: Smite Makes Right
+          ids: 72580...72587
+          note: Ground - 1st Floor
+    - name: Grelleth's Palace, Chateau of Filth
+      quests:
+        - name: One Pig's Trash
+          ids: 75740...75747
+          note: Ground -
+        - name: Dirty Robotics
+          ids: 75990...75997
+          note: Ground -
+        - name: Delicious Meats
+          ids: 76585...76592
+          note: Drop - Pigs
+        - name: Resilient Nature
+          ids: 76983...76990
+          note: Ground -
+    - name: Valley of King Xorbb
+      quests:
+        - name: Mementos of the Fallen
+          ids: 77432...77441
+          note: Ground - Basement/Aqueducts
+        - name: Gelatinous Geometry
+          ids: 77465...77473
+          note: Drop - Cubes
+        - name: Unrestrained Science
+          ids: 77474...77482
+          note: Ground - Tunnels/Caves
+        - name: Minotaur Warfare
+          ids: 77483...77491
+          note: Ground - Outside
+    - name: Chelsith Reborn
+      quests:
+        - name: Fight for Your Life
+          ids: 81376...81383
+          note: Ground - 1st Level
+        - name: Below the Surface
+          ids: 81384...81391
+          note: Ground - Basement of 2nd level
+        - name: Crystal Takes Many Shapes
+          ids: 81392...81399
+          note: Ground - 2nd Level
+        - name: The Magic of Science
+          ids: 81400...81407
+          note: Drops - Shissar casters
+    - name: Plane of Shadow
+      quests:
+        - name: Before There Was Peace
+          ids: 81408...81415
+          note: Ground - Outside
+        - name: Secrets of an Entire World
+          ids: 81416...81423
+          note: Ground - Island areas
+        - name: Balance of Shadows
+          ids: 81424...81431
+          note: Ground - Inside
+        - name: Corrupted Guardians
+          ids: 81432...81439
+          note: Drop - Akhevans
+    - name: Heart of Fear
+      quests:
+        - name: No Body Left Behind
+          ids: 84900...84907
+          note: Ground - Threshold
+        - name: Hidden Faces
+          ids: 84908...84915
+          note: Ground - Epicenter
+        - name: Whuzzle's Worst Nightmares
+          ids: 84916...84923
+          note: Ground - Rebirth
+        - name: Kill Them Before They Grow
+          ids: 84924...84931
+          note: Drop - Mob from Gestation Crystals
+- name: Periodic
+  zones:
+    - name: Nagafen's Lair - Heritage
+      quests:
+        - name: All That Glitters is Lava
+          ids: 81693...81700
+          note: Ground - In lava
+        - name: Dedicated to the Flame
+          ids: 81701...81708
+          note: Ground - Giant area
+        - name: Puppy Love
+          ids: 81709...81716
+          note: Ground - Kobold area
+        - name: Bat Attack
+          ids: 81717...81723,81756
+          note: Drop - Bats
+    - name: Mistmoore - Heritage
+      quests:
+        - name: The Silence of Daylight
+          ids: 81724...81731
+        - name: Reluctant Recruits
+          ids: 81732...81739
+        - name: Vampire Trappings
+          ids: 81740...81747
+        - name: Timeless Fashion
+          ids: 81748...81755
+          note: Drop - Vampires
+    - name: Erollisi
+      quests:
+        - name: Erollisi Day Lovers (Halas)
+          ids: 86145...86152
+          note: Ground
+        - name: Erollisi Day Haters (Neriak - Foreign Quarter)
+          ids: 85451...85458
+          note: Ground
+- name: Call of the Forsaken
+  zones:
+    - name: Ethernere Tainted West Karana
+      quests:
+        - name: Scattered Civilization
+          ids: 88647...88654
+          note: Ground
+        - name: Geological Discoveries
+          ids: 88655...88662
+          note: Ground
+        - name: Ethernere Remnants
+          ids: 88663...88670
+          note: Ground
+        - name: Influence of the Ethernere
+          ids: 88671...88678
+          note: Drop
+        - name: Missing Mementos
+          ids: 88679...88686
+          note: Ground - Brother Estle HAs
+        - name: Miniture Meals
+          ids: 88687...88694
+          note: Ground - Marla Gaslow HAs
+    - name: The Dead Hills
+      quests:
+        - name: The Plaguebringer's Chosen
+          ids: 88551...88558
+          note: Ground - Gribble Grobblenobber HAs
+        - name: The Spared
+          ids: 88559...88566
+          note: Ground - Skulk the Madaxe HAs
+        - name: Kyle's Cadre
+          ids: 88567...88574
+          note: Ground - Captain Russell Cooper HAs
+        - name: Remnants of the Unlucky
+          ids: 88575...88582
+          note: Drop - HAs
+    - name: Bixie Warfront
+      quests:
+        - name: Eager Entomology
+          ids: 88615...88622
+          note: Ground - Snazlieu the Sneak missions
+        - name: Loathsome Leftovers
+          ids: 88623...88630
+          note: Ground - Naturalist Yrelia missions
+        - name: Prolific Pollinators
+          ids: 88631...88638
+          note: Ground - Ambassador Crizlyna missions
+        - name: Acquired Arnaments
+          ids: 88639...88646
+          note: Drop - HAs
+        - name: Military Missives
+          ids: 88711...88718
+          note: Ground - Battlebreaker Kraklest missions
+    - name: Neriak Fourth Gate
+      quests:
+        - name: Neriak Book Club
+          ids: 88583...88590
+          note: Ground - Library
+        - name: Treasures of Neriak
+          ids: 88591...88598
+          note: Ground - Buildings
+        - name: Fourth Gate Flora & Fauna
+          ids: 88599...88606
+          note: Ground - Outside
+        - name: Royal Weaponry
+          ids: 88607...88614
+          note: Drop
+        - name: Matronymic Markers
+          ids: 88695...88702
+          note: HA - Lark D'Tradis missions
+        - name: Miraculous Mixtures
+          ids: 88703...88710
+          note: HA - Rozz T'Ver missions
+    - name: Tower of Rot
+      quests:
+        - name: Tools to Build a Tower
+          ids: 97520...97527
+          note: Ground - Above zone in
+        - name: Makeshift Materials
+          ids: 97528...97535
+          note: Ground - Below zone in
+        - name: Unnatural Life
+          ids: 97536...97543
+          note: HA - Bredaleen's Scheme
+        - name: Explorer's Relics
+          ids: 97544...97551
+          note: Drop
+    - name: Argin-Hiz
+      quests:
+        - name: Argin-Hiz Treasures
+          ids: 97560...97567
+          note: Ground
+        - name: Elddar Texts
+          ids: 97568...97575
+          note: Ground
+        - name: Remnants of Flame
+          ids: 97576...97583
+          note: Drop - Non-elf mobs
+        - name: Fiery Beauty
+          ids: 97584...97591
+          note: HA - A Posthumous Proposition
+- name: The Darkened Sea
+  zones:
+    - name: "Katta Castrum: Waters Rising"
+      quests:
+        - name: Waterlogged Tomes
+          ids: 99522...99529
+          note: Ground - Inside temple
+        - name: Seabed Treasures
+          ids: 99530...99537
+          note: Ground - Outside underwater in old vendor area
+        - name: Shissar Armory
+          ids: 99538...99545
+          note: Ground - Outside temple
+        - name: Katta Castrum Mementos
+          ids: 99546...99553
+          note: Drop
+    - name: Tempest Temple
+      quests:
+        - name: Articles of Ambition
+          ids: 99554...99561
+          note: Ground
+        - name: Subtle Extinction
+          ids: 99562...99569
+          note: Ground - Water near shore
+        - name: Preserver's Prizes
+          ids: 99570...99577
+          note: HA
+        - name: Ritualistic Remains
+          ids: 99578...99585
+          note: Drop
+    - name: Caverns of Endless Song
+      quests:
+        - name: Subaqueous Sesshells
+          ids: 99586...99593
+          note: Ground - Under water
+        - name: Dearly Beloved
+          ids: 99594...99601
+          note: Ground - Above water
+        - name: The Endless Song
+          ids: 99602...99609
+          note: HA - Seductive Subterfuge
+        - name: Remnants of the Enraptured
+          ids: 99610...99617
+          note: Drop
+    - name: Brother Island
+      quests:
+        - name: Beachcomber's Booty
+          ids: 99618...99625
+          note: Ground
+        - name: Dropped Detritus
+          ids: 99626...99633
+          note: Ground
+        - name: Itching Insects
+          ids: 99634...99641
+          note: Drop - Apes/Birds
+        - name: Island Sands
+          ids: 99642...99649
+          note: Drop - Seafood/Plants
+    - name: Degmar the Lost Castle
+      quests:
+        - name: Comfort in the Deep
+          ids: 99682...99689
+          note: Ground - Sleeping areas
+        - name: Keep Keepsakes
+          ids: 99690...99697
+          note: Ground
+        - name: Tools of the Assassins
+          ids: 99698...99705
+          note: HA - Castle Relic
+        - name: Keepsakes of the Murdered
+          ids: 99706...99713
+          note: Drops - Undead
+    - name: Thuliasar Island
+      quests:
+        - name: Empty Nest
+          ids: 99714...99721
+          note: Ground - Aviaks
+        - name: Our Fading History
+          ids: 99722...99729
+          note: Ground - Giant's area
+        - name: The Faceless' Forgotten
+          ids: 99730...99737
+          note: HA - (In lizard buildings)
+        - name: The Last Boat
+          ids: 99738...99745
+          note: Drop - Undead, Raptors
+    - name: Combine Dredge
+      quests:
+        - name: Cruelty TVyl
+          ids: 99650...99657
+          note: Ground
+        - name: Dredging Drudgery
+          ids: 99658...99665
+          note: Ground
+        - name: Twenty Leagues
+          ids: 99666...99673
+          note: HA - Kedge Counterblow
+        - name: Armatalium Odalia
+          ids: 99674...99681
+          note: Drop - Doomscale mobs
+    - name: Arx Mentis
+      quests:
+        - name: Apprentice's Accoutrements
+          ids: 99746...99753
+          note: Ground
+        - name: Ascendant's Afterthoughts
+          ids: 99754...99761
+          note: Ground
+        - name: Articles of Animation
+          ids: 99762...99769
+          note: HA - Shake the Citadel
+        - name: Actualized Accounts
+          ids: 99770...99777
+          note: Drop - Humanoids (upper floor)
+- name: The Broken Mirror
+  zones:
+    - name: Plane of Health
+      quests:
+        - name: Grails
+          ids: 145400...145407
+          note: Ground - middle/outer ring
+        - name: Shards of Life
+          ids: 145408...145415
+          note: Ground - inner/middle ring
+        - name: Ruins of Decay
+          ids: 145416...145423
+          note: HAs
+        - name: Bright Baubles
+          ids: 145424...145431
+          note: Drop
+    - name: "Sul Vius: Demiplane of Life"
+      quests:
+        - name: Unliving Relics
+          ids: 145432...145439
+          note: Ground - Above ground
+        - name: Texts of Eternity
+          ids: 145440...145447
+          note: Ground - Below ground
+        - name: Deadman's Band
+          ids: 145448...145455
+          note: HAs
+        - name: Deadman's Dinner
+          ids: 145456...145463
+          note: Drop
+    - name: "Sul Vius: Demiplane of Decay"
+      quests:
+        - name: Nightcrawlers
+          ids: 145464...145471
+          note: Ground - Above ground
+        - name: Markers of Death
+          ids: 145472...145479
+          note: Ground - Below ground
+        - name: Medal from the Living
+          ids: 145480...145487
+          note: HA
+        - name: Fallen Footwear
+          ids: 145488...145495
+          note: Drop
+    - name: Crypt of Decay
+      quests:
+        - name: Gathering of Slime
+          ids: 145528...145535
+          note: Ground - Top floor
+        - name: Knives of Sacrifice
+          ids: 145536...145543
+          note: Ground - Bottom floor
+        - name: Putrid Poisons
+          ids: 145544...145551
+          note: HA
+        - name: Rotting Remnants
+          ids: 145552...145559
+          note: Drop
+    - name: Crypt of Sul
+      quests:
+        - name: Dregs of Decay
+          ids: 145496...145503
+          note: Ground - N?
+        - name: Idols of Rot
+          ids: 145504...145511
+          note: Ground - NE?
+        - name: An Ounce of Fetid Flesh
+          ids: 145512...145519
+          note: HAs
+        - name: Rainments of Rot
+          ids: 145520...145527
+          note: Drop
+- name: Empires of Kunark
+  zones:
+    - name: Lceanium
+      quests:
+        - name: Misplaced Tools
+          ids: 116678...116685
+          note: Ground - Inside city walls
+        - name: Historic Finds
+          ids: 116686...116693
+          note: Ground - Inside city walls
+        - name: Dreadleaves
+          ids: 116694...116701
+          note: Ground - Outside city walls
+        - name: Portal Dust
+          ids: 116702...116709
+          note: Drop - Giants/Skeletons
+    - name: The Scorched Woods
+      quests:
+        - name: Burned Wood
+          ids: 116550...116557
+          note: Ground
+        - name: Where the Stars Fell
+          ids: 116558...116565
+          note: Drop - Elementals/Constructs
+        - name: Unearthing the Sky
+          ids: 116566...116573
+          note: Drop - Burynai
+        - name: Big Time
+          ids: 116574...116581
+          note: Drop - Giants
+    - name: Frontier Mountains
+      quests:
+        - name: National Treasure
+          ids: 116582...116589
+          note: Ground
+        - name: Drinking Solution
+          ids: 116590...116597
+          note: Ground - Near giant's structures
+        - name: Regal Grave Robbing
+          ids: 116598...116605
+          note: Ground
+        - name: Frontier Festivities
+          ids: 116606...116613
+          note: Drop - Goblins
+    - name: The Temple of Droga
+      quests:
+        - name: Taken Tokens
+          ids: 101280...101287
+          note: Ground
+        - name: Mountain Death Trinkets
+          ids: 101288...101295
+          note: Ground
+        - name: Memories of Nurga
+          ids: 101561...101568
+          note: Drop
+        - name: Stinkin' Badges
+          ids: 101569...101576
+          note: Drop - HAs
+    - name: Chardok
+      quests:
+        - name: Jailor's Halls
+          ids: 116742...116749
+          note: Ground - Caves/Tunnels
+        - name: Brutal Accolades
+          ids: 116750...116757
+          note: Ground - Sarnak Building Areas
+        - name: Torturer's Tools
+          ids: 116758...116765
+          note: Drop
+        - name: Alchemist's Reagents
+          ids: 116766...116773
+          note: Drop - HAs
+    - name: The Gates of Kor-Sha
+      quests:
+        - name: Lesser Things
+          ids: 116662...116669
+          note: Drop - Sarnak
+    - name: Kor-Sha
+      quests:
+        - name: Laboratory Labors
+          ids: 116646...116653
+          note: Ground - Toward Northeast
+        - name: Atrebe's Study
+          ids: 116654...116661
+          note: Ground - Toward Front Door
+        - name: Korshessence
+          ids: 116670...116677
+          note: Drop - HA
+- name: Ring of Scale
+  zones:
+    - name: The Overthere
+      quests:
+        - name: Headhunter
+          ids: 149172...149179
+          note: Drop
+        - name: Botanical Bounty
+          ids: 149180...149187
+          note: Ground
+        - name: Soilsuppers
+          ids: 149188...149195
+          note: Ground
+        - name: Decorated Driftwood
+          ids: 149196...149203
+          note: Drop
+    - name: The Skyfire Mountains
+      quests:
+        - name: Bloodstones
+          ids: 149140...149147
+          note: Drop - Drakes
+        - name: Skyfire Trophies
+          ids: 149148...149155
+          note: Ground
+        - name: Scounting Accessories
+          ids: 149156...149163
+          note: Ground
+        - name: Ritual Runes
+          ids: 149164...149171
+          note: Drop
+    - name: The Howling Stones
+      quests:
+        - name: Tribal Currency
+          ids: 149236...149243
+          note: Drop
+        - name: Imperial Heritage
+          ids: 149244...149251
+          note: Ground
+        - name: Slaves of the Empire
+          ids: 149252...149259
+          note: Ground
+        - name: Echoes of the Dead
+          ids: 149260...149267
+          note: Drop
+    - name: Sathir's Tomb
+      quests:
+        - name: Ancient Insects
+          ids: 149268...149275
+          note: Ground
+        - name: Sebilisian Medallions
+          ids: 149276...149283
+          note: Drop
+        - name: Crypt Dust
+          ids: 149284...149291
+          note: Drop
+        - name: Tomb Tokens
+          ids: 149292...149299
+          note: Drop
+    - name: Gorowyn
+      quests:
+        - name: Krellnakor Badges
+          ids: 149204...149211
+          note: Drop
+        - name: Acron Artifacts
+          ids: 149212...149219
+          note: Ground
+        - name: Wulthan Ceremonies
+          ids: 149220...149227
+          note: Drop
+        - name: Fereth Authority
+          ids: 149228...149235
+          note: Ground
+    - name: Veeshan's Peak
+      quests:
+        - name: Dragonkin Scales
+          ids: 149300...149307
+          note: Drop
+        - name: Fractured Findings
+          ids: 149308...149315
+          note: Ground
+        - name: Rocks and or Boulders
+          ids: 149316...149323
+          note: Ground
+        - name: Dragonhunter's Folly
+          ids: 149324...149331
+          note: Drop
+- name: The Burning Lands
+  zones:
+    - name: Stratos
+      quests:
+        - name: Remnants of Air
+          ids: 150700...150707
+          note: Drop
+        - name: Insects of Air
+          ids: 150708...150715
+          note: Drop
+        - name: Gemstones of Air
+          ids: 150716...150723
+          note: Ground
+        - name: Seeds of Air
+          ids: 150724...150731
+          note: Ground
+    - name: Plane of Smoke
+      quests:
+        - name: Tried and Failed
+          ids: 150732...150739
+          note: Drop
+        - name: Feeling Rocks
+          ids: 150740...150747
+          note: Ground
+        - name: Dulled Hues
+          ids: 162000...162007
+          note: Drop
+        - name: Fading Embers
+          ids: 162008...162015
+          note: Ground
+    - name: Empyr
+      quests:
+        - name: Fire Forever
+          ids: 150812...150819
+          note: Drop 
+        - name: Puzzling Plantlife
+          ids: 150820...150827
+          note: Drop
+        - name: Lost in Place
+          ids: 150828...150835
+          note: Ground
+        - name: The Life of Fire
+          ids: 150836...150843
+          note: Ground
+    - name: Aalishai
+      quests:
+        - name: No Stone Unturned
+          ids: 150844...150851
+          note: Drop - Mission - Brass Palace
+        - name: Those Who Extinguish
+          ids: 150852...150859
+          note: Ground
+        - name: The Ruby Tear
+          ids: 150860...150867
+          note: Ground
+        - name: Memories of Fire
+          ids: 150868...150875
+          note: Drop
+    - name: Esianti
+      quests:
+        - name: Guests, Gusts, Gifts
+          ids: 150748...150755
+          note: Drop
+        - name: Natural Wonder
+          ids: 150756...150763
+          note: Ground
+        - name: Palace Aides
+          ids: 150764...150771
+          note: Ground
+        - name: Elementary Accomodation
+          ids: 150772...150779
+          note: Drop - Mission - Contract of War
+    - name: Mearatas
+      quests:
+        - name: Earthen Order
+          ids: 150780...150787
+          note: Drop
+        - name: Fire Without Fury
+          ids: 150788...150795
+          note: Ground
+        - name: Air-Tight Case
+          ids: 150796...150803
+          note: Drop
+        - name: Maritime Law
+          ids: 150804...150811
+          note: Ground
+- name: Torment of Velious
+  zones:
+    - name: The Eastern Wastes
+      quests:
+        - name: Nails and Teeth
+          ids: 153477...153484
+          note: Ground -
+        - name: Items Lost
+          ids: 153485...153492
+          note: Drop - Non-restless mobs
+        - name: Frozen Fauna
+          ids: 153493...153500
+          note: Ground - North
+        - name: Restlessly Shattered
+          ids: 153501...153508
+          note: Drop - Restless mobs
+    - name: Ry`Gor Mines
+      quests:
+        - name: Messy Miners
+          ids: 153541...153548
+          note: Ground
+        - name: Orcish Earrings
+          ids: 153557...153564
+          note: Ground -
+        - name: Frozen Equipment
+          ids: 153565...153572
+          note: Drop
+    - name: Crystal Caverns
+      quests:
+        - name: Froststone Barter
+          ids: 153573...153580
+          note: Ground - Dwarf areas
+        - name: Creepy Crawly and Wiggly
+          ids: 153581...153588
+          note: Ground - Tunnels
+        - name: Silk Silk Silk
+          ids: 153589...153596
+          note: Drop - Spiders
+        - name: Ice Stones
+          ids: 153597...153604
+          note: Drop - Geonids / Terrors
+    - name: Great Divide
+      quests:
+        - name: Tools of the Lost Miners
+          ids: 153509...153516
+          note: Drop
+        - name: Earning Our Keep
+          ids: 153517...153524
+          note: Ground -
+        - name: Remnants of a Somber Divide
+          ids: 153525...153532
+          note: Ground -
+        - name: Bare Necessities of a Simpler Time
+          ids: 153533...153540
+          note: Drop - Mission
+    - name: Tower of Frozen Shadow
+      quests:
+        - name: Wedding Favors
+          ids: 153637...153644
+          note: Drop
+        - name: Embalming Tools
+          ids: 153645...153652
+          note: Drop
+        - name: How to Embalm
+          ids: 153653...153660
+          note: Ground
+        - name: Left in the Tower
+          ids: 153661...153668
+          note: Ground
+    - name: Velketor's Labyrinth
+      quests:
+        - name: Eight Legged Bits
+          ids: 153669...153676
+          note: Drop
+        - name: Useless Tools
+          ids: 153677...153684
+          note: Drop - Mission trash
+        - name: Unfit for Adventures
+          ids: 153685...153692
+          note: Ground
+        - name: Trash from the Past
+          ids: 153693...153700
+          note: Ground
+    - name: Kael Drakkel
+      quests:
+        - name: Weapon Fragments
+          ids: 153605...153612
+          note: Ground -
+        - name: Spoils of War
+          ids: 153613...153620
+          note: Ground -
+        - name: Pieces of a Civilation
+          ids: 153621...153628
+          note: Drop
+        - name: Chilly Critters
+          ids: 153629...153636
+          note: Drop - Mission
