@@ -189,6 +189,11 @@
         - name: Kill Them Before They Grow
           ids: 84924...84931
           note: Drop - Mob from Gestation Crystals
+    - name: Achievement
+      quests:
+        - name: Dark Secrets
+          ids: 81440,81441
+          note: (part collections) FS - CR zone drop, LS - PoS zone drop
 - name: Periodic
   zones:
     - name: Nagafen's Lair - Heritage
