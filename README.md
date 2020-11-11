@@ -140,6 +140,6 @@ Technically, this could be updated by hand for new items. This is best kept
 consistent using programs to extract the data from authoritative sources such as
 "/output inventory", "/output realestate", and loot-filter files. Other sources
 would be using a program to grab an item name for an ID from something like
-Allakhazam.  The repository [equtils](https://nuttann/equtils) has a program
+Allakhazam.  The repository [equtils](https://github.com/nuttann/equtils) has a program
 "updateiteminfo" that can extract the names from the EQ-generated text files
 listed above.
